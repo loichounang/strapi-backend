@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "top_menus",
+  "info": {
+    "singularName": "top-menu",
+    "pluralName": "top-menus",
+    "displayName": "top-menu",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "accueil": {
+      "type": "string"
+    },
+    "about": {
+      "type": "string"
+    },
+    "services": {
+      "type": "string"
+    },
+    "reservation": {
+      "type": "string"
+    },
+    "boutique": {
+      "type": "string"
+    },
+    "contact": {
+      "type": "string"
+    }
+  }
+}

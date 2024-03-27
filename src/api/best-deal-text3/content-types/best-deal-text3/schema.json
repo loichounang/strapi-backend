@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "best_deal_text3s",
+  "info": {
+    "singularName": "best-deal-text3",
+    "pluralName": "best-deal-text3s",
+    "displayName": "best-deal-text3"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nomBestDeal": {
+      "type": "string"
+    },
+    "deal1": {
+      "type": "string"
+    },
+    "deal2": {
+      "type": "string"
+    },
+    "deal3": {
+      "type": "string"
+    }
+  }
+}

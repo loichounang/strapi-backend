@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "menu_navigations",
+  "info": {
+    "singularName": "menu-navigation",
+    "pluralName": "menu-navigations",
+    "displayName": "menu-navigation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "email": {
+      "type": "email"
+    },
+    "numero": {
+      "type": "biginteger"
+    },
+    "texte": {
+      "type": "string"
+    }
+  }
+}

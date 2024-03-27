@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "onglerie_specialities",
+  "info": {
+    "singularName": "onglerie-speciality",
+    "pluralName": "onglerie-specialities",
+    "displayName": "onglerieSpeciality"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "onglerieImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "onglerie": {
+      "type": "string"
+    }
+  }
+}

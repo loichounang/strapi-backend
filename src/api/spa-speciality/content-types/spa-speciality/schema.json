@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "spa_specialities",
+  "info": {
+    "singularName": "spa-speciality",
+    "pluralName": "spa-specialities",
+    "displayName": "spaSpeciality"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "imageSpa": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "SpaEthique": {
+      "type": "string"
+    }
+  }
+}

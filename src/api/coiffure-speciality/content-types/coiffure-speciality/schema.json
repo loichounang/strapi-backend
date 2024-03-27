@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "coiffure_specialities",
+  "info": {
+    "singularName": "coiffure-speciality",
+    "pluralName": "coiffure-specialities",
+    "displayName": "coiffureSpeciality"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "coiffureImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "coiffure": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "about"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "bienvenue": {
+      "type": "string"
+    },
+    "noms": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "message": {
+      "type": "text"
+    }
+  }
+}

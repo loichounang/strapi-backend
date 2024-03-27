@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "herosections",
+  "info": {
+    "singularName": "herosection",
+    "pluralName": "herosections",
+    "displayName": "herosection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "slider": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

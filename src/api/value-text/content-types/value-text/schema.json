@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "value_texts",
+  "info": {
+    "singularName": "value-text",
+    "pluralName": "value-texts",
+    "displayName": "value-text"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "spa": {
+      "type": "string"
+    },
+    "titre": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "valeur1": {
+      "type": "string"
+    },
+    "valeur2": {
+      "type": "string"
+    },
+    "valeur3": {
+      "type": "string"
+    },
+    "valeur4": {
+      "type": "string"
+    },
+    "valeur5": {
+      "type": "string"
+    },
+    "valeur6": {
+      "type": "string"
+    },
+    "valeur7": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "soins",
+  "info": {
+    "singularName": "soin",
+    "pluralName": "soins",
+    "displayName": "soinSpeciality",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "soinImage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "soinDuVisage": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "best_deal_image2s",
+  "info": {
+    "singularName": "best-deal-image2",
+    "pluralName": "best-deal-image2s",
+    "displayName": "best-deal-image2"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
